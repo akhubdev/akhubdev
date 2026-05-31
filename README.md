@@ -1,4 +1,16 @@
-# Hi 👋 I'm Akash Das
+<h1 align="center">Hi 👋, I'm Akash Das</h1>
+
+<h3 align="center">
+Data Analyst • Python Developer • AI & Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+Building Data-Driven Solutions with Python, SQL, Machine Learning & Analytics
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+Internships+and+Opportunities" alt="Typing SVG" />
+</p>
 
 🎓 B.Tech Computer Science Student  
 💻 Aspiring AI / Machine Learning Developer  
