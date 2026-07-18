@@ -1,9 +1,7 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0B1120,100:1E3A8A&text=Akash%20Das&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Data%20Analyst%20|%20Python%20Developer%20|%20AI%20ML%20Enthusiast&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0B1120,100:1E3A8A&text=Akash%20Das&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Data%20Analyst%20|%20SQL%20|%20Excel%20|%20Power%20BI%20|%20Python&descAlignY=60&animation=fadeIn" />
 </p>
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,15 +11,15 @@
 
 <table align="center">
 <tr>
-<td align="center">🏛️</td>
-<td><b>College</b></td>
-<td>Adarsha College of Engineering, Angul</td>
+<td align="center">🎓</td>
+<td><b>Degree</b></td>
+<td>B.Tech in Computer Science & Engineering</td>
 </tr>
 
 <tr>
-<td align="center">💻</td>
-<td><b>Branch</b></td>
-<td>Computer Science & Engineering (CSE)</td>
+<td align="center">🏛️</td>
+<td><b>College</b></td>
+<td>Adarsha College of Engineering, Angul</td>
 </tr>
 
 <tr>
@@ -45,19 +43,20 @@
 <tr>
 <td width="70%">
 
-- 🔭 I’m currently working on [HealthGuard AI](https://github.com/akhubdev/HealthGuard-AI)
+- 🌱 I'm currently learning **Advanced SQL, Excel, Power BI, Python, Data Visualization, and Business Intelligence**.
 
-- 🌱 I’m currently learning **Advanced SQL, Power BI, Machine Learning**
+- 📂 Explore my featured projects:
+  - 🏥 **HealthGuard AI** → https://github.com/akhubdev/HealthGuard-AI
+  - 🌍 **CivicAI** → https://github.com/akhubdev/CivicAI
+  - 🧠 **Hypothyroid Classification** → https://github.com/akhubdev/Hypothyroid-Classification
 
-- 👯 I’m looking to collaborate on **Data Analytics & Machine Learning Projects**
+- 🤝 I'm open to collaborating on **Data Analytics, Business Intelligence, Dashboard Development, Open Source, and Python Projects**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/akhubdev](https://github.com/akhubdev)
+- 💬 Ask me about **SQL, Excel, Power BI, Python, Pandas, NumPy, EDA, Data Cleaning, Data Visualization, and Dashboard Development**.
 
-- 💬 Ask me about **Python, SQL, Data Analytics, Machine Learning, Power BI**
+- 📫 Reach me at **cchiku123456@gmail.com**
 
-- 📫 How to reach me **cchiku123456@gmail.com**
-
-- ⚡ Fun fact **⚡ Coffee, SQL and Machine Learning keep me going.**
+- ⭐ If you find my projects helpful, feel free to **star** the repositories or connect with me for collaboration and learning.
   
 </td>
 
@@ -79,6 +78,11 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+-----------------------------------------
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/>
+</a>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -95,6 +99,12 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center">
+  <a href="https://github.com/akhubdev?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Projects-GitHub-black?style=for-the-badge&logo=github" alt="Star My Projects"/>
+  </a>
+</p>
 
 
 
